@@ -10,7 +10,6 @@ import base64
 import hashlib
 # para el manejo del tiempo
 import time
-import sys
 
 ## declaracion de variables globales ##
 
